@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyReactNativeAppBridge.iml" filepath="$PROJECT_DIR$/.idea/modules/MyReactNativeAppBridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyReactNativeAppBridge.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyReactNativeAppBridge.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jsc-android/MyReactNativeAppBridge.jsc-android.iml" filepath="$PROJECT_DIR$/.idea/modules/jsc-android/MyReactNativeAppBridge.jsc-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/my-react-native-lib/MyReactNativeAppBridge.my-react-native-lib.iml" filepath="$PROJECT_DIR$/.idea/modules/my-react-native-lib/MyReactNativeAppBridge.my-react-native-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/react-native/MyReactNativeAppBridge.react-native.iml" filepath="$PROJECT_DIR$/.idea/modules/react-native/MyReactNativeAppBridge.react-native.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-10853365/MyReactNativeAppBridge.react-native-camera.iml" filepath="$PROJECT_DIR$/.idea/modules/-10853365/MyReactNativeAppBridge.react-native-camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1942521943/MyReactNativeAppBridge.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1942521943/MyReactNativeAppBridge.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1746133088/MyReactNativeAppBridge.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1746133088/MyReactNativeAppBridge.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1293810564/MyReactNativeAppBridge.react-native-i18n.iml" filepath="$PROJECT_DIR$/.idea/modules/1293810564/MyReactNativeAppBridge.react-native-i18n.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1928883086/MyReactNativeAppBridge.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/-1928883086/MyReactNativeAppBridge.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1415261611/MyReactNativeAppBridge.react-native-pager-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1415261611/MyReactNativeAppBridge.react-native-pager-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-525982434/MyReactNativeAppBridge.react-native-permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/-525982434/MyReactNativeAppBridge.react-native-permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-908197444/MyReactNativeAppBridge.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-908197444/MyReactNativeAppBridge.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-646946615/MyReactNativeAppBridge.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-646946615/MyReactNativeAppBridge.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1189050401/MyReactNativeAppBridge.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1189050401/MyReactNativeAppBridge.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1663494398/MyReactNativeAppBridge.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/1663494398/MyReactNativeAppBridge.react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/447992979/MyReactNativeAppBridge.react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/447992979/MyReactNativeAppBridge.react-native-webview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-143223963/MyReactNativeAppBridge.timwangdev_react-native-geocoder.iml" filepath="$PROJECT_DIR$/.idea/modules/-143223963/MyReactNativeAppBridge.timwangdev_react-native-geocoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/97181099/MyReactNativeAppBridge.tipsi-stripe.iml" filepath="$PROJECT_DIR$/.idea/modules/97181099/MyReactNativeAppBridge.tipsi-stripe.iml" />
+    </modules>
+  </component>
+</project>
